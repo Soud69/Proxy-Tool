@@ -1,6 +1,6 @@
 # Proxy-Tool
 Simple Proxy Tool
-![alt text](https://github.com/Soud69/Twitch-Checker/blob/main/image.png?raw=true)
+![alt text](https://github.com/Soud69/Proxy-Tool/blob/main/image.png?raw=true)
 # Credit
 
 Instagaram: https://www.instagram.com/_agf/ <br />
